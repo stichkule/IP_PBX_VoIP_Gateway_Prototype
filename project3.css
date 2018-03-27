@@ -1,0 +1,53 @@
+h1
+{
+  text-align: center;
+  color: rgb(0,0,0);
+}
+h2
+{
+text-align: left;
+font-size: 22pt;  
+color: rgb(68,68,34);
+}
+h3
+{ 
+text-align: right;
+
+font-size: 22pt; 
+  color: rgb(50,50,50);
+}
+h4
+{ 
+text-align: center;
+font-size: 24pt;  
+ color: rgb(153,0,51);
+}
+
+.movieli
+{
+  color: rgb(256,128,128);
+}
+.sportsli
+{
+  color: rgb(128,256,128);
+}
+.newsli
+{
+  color: rgb(128,128,256);
+}
+#lolimg
+{
+  float:right;
+}
+p{
+  font-size: 18pt;
+}
+body{
+  background-color: #999900;
+}
+table {
+    border-style: solid;
+}
+th {
+    vertical-align: top;
+}
